@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "6a1d418440a2370a8b0d78a2ca9a8399"
+build_time: [513109868, 922749000]
+inputs:
+  "/Users/rodrigo.s.mulkey/Desktop/Dev/MeetingCostCalc/MeetingCostCalc/MeetingCostCalc/AppDelegate.swift": [513109865, 0]
+  "/Users/rodrigo.s.mulkey/Desktop/Dev/MeetingCostCalc/MeetingCostCalc/MeetingCostCalc/ViewController.swift": [513109865, 0]
